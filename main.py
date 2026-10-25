@@ -2,10 +2,10 @@ import random
 import requests
 
 POKEMON_LIST = [
-    "pikachu",
-    "charizard",
+    "arceus",
+    "greninja",
     "snorlax",
-    "eevee",
+    "jynx",
     "gengar",
     "ditto"
 ]
